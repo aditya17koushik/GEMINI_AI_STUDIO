@@ -14,4 +14,4 @@ agent = Agent(
 # print(run.content)
 
 # Print the response in the terminal
-agent.print_response("distingush between phi.agent and agno.agent?")
+agent.print_response("discuss about cricket legends?")
